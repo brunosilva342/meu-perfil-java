@@ -1,7 +1,7 @@
 public class Perfil {
 
         public static void main(String[] args) {
-            // Definindo as variáveis
+            
             String nome = "Bruno Mikael Ribeiro da Silva";   
             int idade = 27;         
             String hobby = "Futebol"; 
@@ -11,4 +11,3 @@ public class Perfil {
             System.out.println("Hobby: " + hobby);
         }
     }
-    
